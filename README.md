@@ -9,6 +9,7 @@ More features are intended to enhance this app, such as:
 - Adding a finish option (high priority)
 - Setting due date and reminder for tasks (high priority)
 - Adding a comment field
+- Editing tasks
 - Setting up categories/tags
 - Share tasks with others (via what? low priority)
 - Adding a habit-tracking system
